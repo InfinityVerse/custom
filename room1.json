@@ -2,7 +2,7 @@
     "room":           "InfinityVerseMC",
     "author":         "inventor02 + xSapling + Zudo",
     "icon":           "http://static.infinityverse.net/plug/icon.png",
-    "css":            "https://raw.githubusercontent.com/infinityverse/custom/master/icons.css",
+    "css":            "https://crossorigin.me/https://raw.githubusercontent.com/infinityverse/custom/master/icons.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
