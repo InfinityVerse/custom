@@ -1,0 +1,49 @@
+{
+    "room":           "InfinityVerseMC",
+    "author":         "inventor02 + xSapling + Zudo",
+    "icon":           "http://static.infinityverse.net/plug/icon.png",
+    "css":            "https://raw.githubusercontent.com/infinityverse/custom/master/icons.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin":"#FF007C",
+        "ambassador": "#FF007C",
+        "host": "#940006",
+        "cohost": "#E50009",
+        "manager": "#FF9308",
+        "bouncer": "#740CF2",
+        "rdj": "#009422",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "http://i.imgur.com/tOEACrk.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+    },
+    "emotes": {
+    	"sapling":"https://visage.surgeplay.com/face/32/87775f0aad84490aa370b2f7b75abfdc.png",
+    	"inventor02":"https://visage.surgeplay.com/face/32/86e48bb6773348a8b20159283d26655e.png",
+    	"zudo":"https://visage.surgeplay.com/face/32/6f37402d4f884c14bf6179873562b1d6.png",
+    	"lastrum":"https://visage.surgeplay.com/face/32/9aa1639e6cb24792a06436aac3269636.png",
+    	"shawlaf":"https://visage.surgeplay.com/face/32/32231b09c67e4eab8fd2ea9572aed65f.png"}}
+    }
+}
